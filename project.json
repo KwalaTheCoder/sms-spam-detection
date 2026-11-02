@@ -1,0 +1,9 @@
+{
+  "domain": "spam",
+  "task": "classification",
+  "targets": [
+    "Category"
+  ],
+  "exclude": [],
+  "text": "Message"
+}
