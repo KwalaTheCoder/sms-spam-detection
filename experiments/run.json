@@ -1,0 +1,10 @@
+{
+  "project": "sms-spam-detection",
+  "exit_code": 0,
+  "seconds": 7.5,
+  "data_file": "Spam/SPAM text message 20170820 - Data.csv",
+  "data_sha256": "1f0573aa3e3e8f5b37a753a454058a9ef9ebb981bcabeeb7ef43cdccedaecf29",
+  "tuned": true,
+  "folds": 5,
+  "seed": 42
+}
